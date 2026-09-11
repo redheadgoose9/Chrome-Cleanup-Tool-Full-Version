@@ -233,3 +233,6 @@ This repository serves as the official landing page for Chrome Cleanup Tool. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Chrome Cleanup Tool today!**
+
+---
+**Last updated:** 2026-09-11 19:04:05 UTC
